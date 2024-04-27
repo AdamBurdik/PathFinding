@@ -1,2 +1,2 @@
 # PathFinding
-A* path finding in libgdx
+A* search algorithm in libgdx
