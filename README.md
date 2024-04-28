@@ -2,14 +2,14 @@
 A* search algorithm in libgdx
 
 ##  Controls
-> - **LMB** - Place Finish
+> **LMB** - Place Finish
 
-- **RMB** - Place Start
+> **RMB** - Place Start
 
-- **MMB** - Place Wall
+> **MMB** - Place Wall
 
-- **SPACE** - Start searching
+> **SPACE** - Start searching
 
-- **ESC** - Clear Map
+> **ESC** - Clear Map
 
-**X** - Remove Tile
+> **X** - Remove Tile
